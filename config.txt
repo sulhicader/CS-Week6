@@ -1,0 +1,4 @@
+{'name': 'Sulhi', 'password': b'!\xad\x04+\x9c\xf5r\xcdv\x07\x8a5L8o\x10', 'usertype': 'staff', 'privilagelev': 4}
+{'name': 'Sahan', 'password': b'\x03\xf3\x9a\xc5\xe2\x1f\xb6:\xf5\xe4E\xd5m\xd6\xe2\x95', 'usertype': 'staff', 'privilagelev': 2}
+{'name': 'Muaz', 'password': b'S\xa0\x9b\xe7\x8aE@\xa8\x82\xbbm\x13\x05\x8f\x87o', 'usertype': 'staff', 'privilagelev': 1}
+{'name': 'Nimsara', 'password': b'\x1c\xf2~\xba7\xeb\x170\xb4\xddU\x0fx\xc7\xd0m', 'usertype': 'patient', 'privilagelev': 3}
